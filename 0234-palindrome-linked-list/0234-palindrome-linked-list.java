@@ -31,7 +31,7 @@ class Solution {
         }
         ListNode temp1=head;
         ListNode temp2=prev;
-        while(temp1!=null && temp2!=null){
+        while(temp2!=null){
             if(temp1.val!=temp2.val) return false;
             temp1=temp1.next;
             temp2=temp2.next;
