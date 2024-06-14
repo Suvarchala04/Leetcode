@@ -1,6 +1,5 @@
 class Solution {
     public boolean isBipartite(int[][] graph) {
-        // ArrayList<ArrayList<Integer>> al=new ArrayList
         int[] color=new int[graph.length];
         Arrays.fill(color,-1);
         for(int i=0;i<graph.length;i++){
