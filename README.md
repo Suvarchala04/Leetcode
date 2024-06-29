@@ -5,16 +5,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Suvarchala04/Leetcode/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/Suvarchala04/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Suvarchala04/Leetcode/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/Suvarchala04/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Suvarchala04/Leetcode/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/Suvarchala04/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Suvarchala04/Leetcode/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/Suvarchala04/Leetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
