@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Suvarchala04/Leetcode/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/Suvarchala04/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Suvarchala04/Leetcode/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Suvarchala04/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
