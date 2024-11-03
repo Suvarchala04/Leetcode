@@ -11,26 +11,22 @@ class Solution {
         }
        
     }
-    public int[][] transpose(int[][] matrix,int r,int c){
-        int[][] ans=new int[c][r];
+    public void transpose(int[][] matrix,int r,int c){
         for(int i=0;i<c;i++){
-            for(int j=0;j<r;j++){
-                ans[i][j]=matrix[j][i];
+            for(int j=i;j<r;j++){
+                int temp=matrix[i][j];
+                matrix[i][j]=matrix[j][i];
+                matrix[j][i]=temp;
             }
         }
-        return ans;
     }
     public void rotate(int[][] matrix) {
         int r=matrix.length;
         int c=matrix[0].length;
-        int[][] transposeMat=transpose(matrix,r,c);
-        for(int i=0;i<transposeMat.length;i++){
-            reverse(transposeMat[i]);
+        transpose(matrix,r,c);
+        for(int i=0;i<matrix.length;i++){
+            reverse(matrix[i]);
         }
-        for(int i=0;i<r;i++){
-            for(int j=0;j<c;j++){
-                matrix[i][j]=transposeMat[i][j];
-            }
-        }
+        
     }
 }
