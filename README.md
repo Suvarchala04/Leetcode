@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Suvarchala04/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Suvarchala04/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Suvarchala04/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [1677-matrix-diagonal-sum](https://github.com/Suvarchala04/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Suvarchala04/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Suvarchala04/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Suvarchala04/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Suvarchala04/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1677-matrix-diagonal-sum](https://github.com/Suvarchala04/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Stack
 |  |
 | ------- |
